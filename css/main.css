@@ -1,0 +1,69 @@
+
+*{
+  padding: 8px;
+  margin: 5px;
+
+}
+body{
+  background-image: url(".././archivos/bckg.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+#titulo{
+      text-align:center;
+      background-color:tomato;
+      color: white;
+    }
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+.img img{
+width: 600px;
+height: 500px;
+
+}
+.sub
+    {color: white;
+      background-color: tomato;
+      text-align: center;
+    }
+
+.vid{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+.prod {
+      background-color: #29E3B8;
+}
+
+ul{
+    font-size: medium;
+    font-weight: bold;
+}
+
+ol{
+  font-size: medium;
+  font-weight: bold;
+}
+
+#final{
+  text-decoration: tomato wavy underline;
+  text-align: center;
+}
+
+.map{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
